@@ -1,0 +1,12 @@
+C:\School\CSC-139\Chapter8\Smart Home Savings\bin\Debug\Smart Home Savings.exe.config
+C:\School\CSC-139\Chapter8\Smart Home Savings\bin\Debug\Smart Home Savings.exe
+C:\School\CSC-139\Chapter8\Smart Home Savings\bin\Debug\Smart Home Savings.pdb
+C:\School\CSC-139\Chapter8\Smart Home Savings\bin\Debug\Smart Home Savings.xml
+C:\School\CSC-139\Chapter8\Smart Home Savings\obj\Debug\Smart Home Savings.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter8\Smart Home Savings\obj\Debug\Smart_Home_Savings.frmMain.resources
+C:\School\CSC-139\Chapter8\Smart Home Savings\obj\Debug\Smart_Home_Savings.Resources.resources
+C:\School\CSC-139\Chapter8\Smart Home Savings\obj\Debug\Smart Home Savings.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter8\Smart Home Savings\obj\Debug\Smart Home Savings.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter8\Smart Home Savings\obj\Debug\Smart Home Savings.exe
+C:\School\CSC-139\Chapter8\Smart Home Savings\obj\Debug\Smart Home Savings.xml
+C:\School\CSC-139\Chapter8\Smart Home Savings\obj\Debug\Smart Home Savings.pdb
